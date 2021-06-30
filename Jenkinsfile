@@ -9,7 +9,7 @@ pipeline {
     }
 
     environment {
-        ORG_NAME = "deors"
+        ORG_NAME = "santoshsubs"
         APP_NAME = "deors-demos-petclinic"
         APP_VERSION = "1.0-SNAPSHOT"
         APP_CONTEXT_ROOT = "petclinic"
